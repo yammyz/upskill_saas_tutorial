@@ -39,6 +39,13 @@ h1, h2, h3 {
     font-family:'Open Sans', sans-serif;
     font-weight: 800;
 }
+.navbar-default .navbar-toggle .icon-bar {
+    background: white;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #6DD5FA;
+}
 
 // Home page Style
 .home-callout {
